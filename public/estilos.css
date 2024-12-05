@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+button{
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    color: white;
+    display: flex;
+    
+}
+
+button:hover{
+    background-color: black;
+}

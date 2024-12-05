@@ -1,0 +1,264 @@
+CRITICAL - 2024-12-05 00:23:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLogin/Login/indexcompra.php"
+[Method: GET, Route: VistaLogin]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLogin/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLogin/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Home.php(19): view('VistasLogin/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:24:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLogin/Login/indexlogin.php"
+[Method: GET, Route: VistaLogin]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLogin/Login/indexlogin.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLogin/Login/indexlogin', [], true)
+ 3 APPPATH\Controllers\Home.php(19): view('VistasLogin/Login/indexlogin')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:53:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompras.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompras.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompras', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompras')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:54:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompras.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompras.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompras', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompras')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:55:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:55:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:55:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:55:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:55:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:55:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:55:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:55:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:55:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:56:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:56:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:57:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:58:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:58:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:58:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:58:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:58:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-05 00:59:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "VistasLocales/Login/indexcompra.php"
+[Method: GET, Route: Compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasLocales/Login/indexcompra.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('VistasLocales/Login/indexcompra', [], true)
+ 3 APPPATH\Controllers\Cindex2.php(10): view('VistasLocales/Login/indexcompra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cindex2->compras()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cindex2))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
